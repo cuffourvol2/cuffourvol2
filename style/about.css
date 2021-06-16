@@ -1,0 +1,25 @@
+.zoom{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.wave{
+  position: absolute;
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.about{
+  padding-top: 5rem;
+}
+
+footer{
+  background-color: #C62368;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+}

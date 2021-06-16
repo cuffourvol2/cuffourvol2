@@ -1,0 +1,39 @@
+.zoom{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.desc{
+  padding-top: 6rem;
+  text-align: justify;
+  box-sizing: border-box;
+}
+
+.wave{
+  position: absolute;
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#guest-star{
+  background-color: palevioletred;
+}
+
+#about{
+  text-align: justify;
+  padding-top: 6rem;
+}
+
+#vote{
+  background-color: palevioletred;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
